@@ -52,7 +52,7 @@ blocks:
     
   - title: LinkedIn # Este es el nombre del botón
     icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-    url: https://linkedin.com/in/anthony-mendoza-g # Link a donde redireccionará al hacer click
+    url: https://www.linkedin.com/in/anthony-mendoza-g-2a669340 # Link a donde redireccionará al hacer click
 
 
 # - title: Sitio Web
