@@ -46,9 +46,9 @@ blocks:
     icon: instagram
     url: https://www.instagram.com/anthonymendozag/
  
-  - title: Github
-    icon: github
-    url: https://github.com/xCoffeeManx
+#  - title: Github
+#    icon: github
+#    url: https://github.com/xCoffeeManx
     
   - title: LinkedIn # Este es el nombre del botón
     icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
