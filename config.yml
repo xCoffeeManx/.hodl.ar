@@ -13,7 +13,7 @@ version: 0.3.5 # NO TOCAR
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | xCoffeeManx # Este es el Título que aparece en la pestaña de navegador
+  title:  xCoffeeManx | Links # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
