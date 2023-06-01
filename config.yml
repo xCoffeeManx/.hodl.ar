@@ -3,8 +3,8 @@
 
 version: 0.3.5 # NO TOCAR
 
-# HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
+ HODL xCoffeeManx
+ username: "xCoffeeManx" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
@@ -13,7 +13,7 @@ version: 0.3.5 # NO TOCAR
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | xCoffeeManx # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
@@ -22,36 +22,43 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: xCoffeeManx # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale 
 
-# - title: Instagram
-#   icon: instagram
-#    url: https://www.instagram.com/lacryptaok/
-
  - title: Twitter
    icon: twitter
    url: https://twitter.com/AnthonyMendozaG
-    
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+   
+   # NOSTR Settings
+ nostr:  # Sin el # adelante
+   npub: "npub1hj2xazg3k6dg07kj4d5k7ydcneha7flqtn8lgufkqfnamhh9mmcsak95re" # Entre comillas dobles
 
  - title: Github
    icon: github
    url: https://github.com/xCoffeeManx
 
+ - title: Telegram
+   icon: telegram
+   url: https://t.me/AnthonyMendozaG
+   
+# - title: Instagram
+#   icon: instagram
+#    url: https://www.instagram.com/lacryptaok/
+
+    
+# - title: LinkedIn # Este es el nombre del botón
+#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+
+
 # - title: Sitio Web
 #   icon: url
 #   url: https://www.TU-WEB.com
 
- - title: Telegram
-   icon: telegram
-   url: https://t.me/AnthonyMendozaG
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
