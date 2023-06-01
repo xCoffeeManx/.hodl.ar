@@ -29,29 +29,29 @@ blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale 
 
-  - title: Instagram
-    icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+# - title: Instagram
+#   icon: instagram
+#    url: https://www.instagram.com/lacryptaok/
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+ - title: Twitter
+   icon: twitter
+   url: https://twitter.com/AnthonyMendozaG
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
 #   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
 
-# - title: Github
-#   icon: github
-#   url: https://github.com/TU-USUARIO
+ - title: Github
+   icon: github
+   url: https://github.com/xCoffeeManx
 
 # - title: Sitio Web
 #   icon: url
 #   url: https://www.TU-WEB.com
 
-# - title: Telegram
-#   icon: telegram
-#   url: https://t.me/TU-USUARIO
+ - title: Telegram
+   icon: telegram
+   url: https://t.me/AnthonyMendozaG
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
