@@ -38,22 +38,21 @@ blocks:
     url: https://iris.to/coffeeman
     npub: "npub1hj2xazg3k6dg07kj4d5k7ydcneha7flqtn8lgufkqfnamhh9mmcsak95re" # Entre comillas dobles
 
-  - title: Github
-    icon: github
-    url: https://github.com/xCoffeeManx
-
   - title: Telegram
     icon: telegram
     url: https://t.me/AnthonyMendozaG
-   
-# - title: Instagram
-#   icon: instagram
-#    url: https://www.instagram.com/anthonymendozag/
-
+ 
+  - title: Instagram
+    icon: instagram
+    url: https://www.instagram.com/anthonymendozag/
+ 
+  - title: Github
+    icon: github
+    url: https://github.com/xCoffeeManx
     
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+  - title: LinkedIn # Este es el nombre del botón
+    icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+    url: https://linkedin.com/in/anthony-mendoza-g # Link a donde redireccionará al hacer click
 
 
 # - title: Sitio Web
