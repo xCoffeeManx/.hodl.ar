@@ -7,8 +7,8 @@ version: 0.3.5 # NO TOCAR
 username: "xCoffeeManx" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+ nostr: # Sin el # adelante
+   npub: "npub1hj2xazg3k6dg07kj4d5k7ydcneha7flqtn8lgufkqfnamhh9mmcsak95re" # Entre comillas dobles
 
 # Configuración Global
 html:
