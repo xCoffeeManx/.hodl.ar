@@ -36,7 +36,6 @@ blocks:
   - title: Nostr
     icon: nostr
     url: https://iris.to/coffeeman
-    npub: "npub1hj2xazg3k6dg07kj4d5k7ydcneha7flqtn8lgufkqfnamhh9mmcsak95re" # Entre comillas dobles
 
   - title: Telegram
     icon: telegram
