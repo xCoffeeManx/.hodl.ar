@@ -18,7 +18,7 @@ html:
 # Colores de plantilla
 theme:
   background_color: "#212121"
-   cover_color: "#515A5A"
+ #  cover_color: "#515A5A"
 
 # Configuración Central
 main:
