@@ -35,7 +35,7 @@ blocks:
 
   - title: Nostr
     icon: nostr
-    url: https://iris.to/coffeeman
+    url: coffeeman@hodl.ar
 
   - title: Telegram
     icon: telegram
